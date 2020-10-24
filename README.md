@@ -9,8 +9,7 @@
 - ⚡ Fun fact: I love to draw
 
 ### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="rohit23421 Spotify Playing" width="350" />](https://open.spotify.com/user/5nn6bg2jr98dckd5oxs8qbrrc)
+[<img src="https://now-playing-rohit23421.vercel.app/api/spotify-playing" alt="rohit23421 Spotify Playing" width="350" />](https://open.spotify.com/user/5nn6bg2jr98dckd5oxs8qbrrc
 
 ### Connect with me:
 
