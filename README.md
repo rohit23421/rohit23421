@@ -10,12 +10,14 @@
 
 ### Spotify Playing 🎧
 
-<img src="https://now-playing-rohit23421.vercel.app/api/spotify-playing" alt="rohit23421 Spotify Playing" width="350" />(https://open.spotify.com/user/5nn6bg2jr98dckd5oxs8qbrrc)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/5nn6bg2jr98dckd5oxs8qbrrc)
+
 
 ### Connect with me:
 
-<img align="left" alt="rohit23421 | LinkedIn" width="22px" src="https://www.linkedin.com/in/rohit-sah-74989a19a/" />
-<img align="left" alt="rohit23421 | Instagram" width="22px" src="https://www.instagram.com/rohit23421/" />
+[<img align="left" alt="rohit23421 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="rohit23421 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br />
 
