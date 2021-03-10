@@ -33,12 +33,7 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-   <img align="left" alt="rohit23421's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rohit23421&show_icons=true&hide_border=true" />
-
-</details>
 
 [instagram]: https://www.instagram.com/rohit23421/
 [linkedin]: https://https://www.linkedin.com/in/rohit-sah-74989a19a/
