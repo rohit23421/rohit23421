@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others for projects
 - 🥅 Future Goals: Learn and explore more
-- ⚡ Fun fact: I love to draw
+- ⚡ Fun fact: I love to sketch
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="rohit23421 Spotify Playing" width="350" />](https://open.spotify.com/user/5nn6bg2jr98dckd5oxs8qbrrc)
