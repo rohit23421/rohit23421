@@ -12,7 +12,6 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="rohit23421 Spotify Playing" width="350" />](https://open.spotify.com/user/5nn6bg2jr98dckd5oxs8qbrrc)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://linkedin.com/in/rohit23421" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rohit23421" height="30" width="40" /></a>
 <a href="https://instagram.com/rohit23421" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rohit23421" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/h1904277" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="h1904277" height="30" width="40" /></a>
