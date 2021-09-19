@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/rohit23421" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rohit23421" height="30" width="40" /></a>
 <a href="https://instagram.com/rohit23421" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rohit23421" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/h1904277" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rohit23421" height="30" width="40" /></a>
 <br />
 <br />
 
