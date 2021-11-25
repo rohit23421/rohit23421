@@ -28,5 +28,5 @@
 
 <p align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rohit23421&theme=vue-dark&hide_border=true" height="185" alt="rohit23421"  />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit23421&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="185" alt="rohit23421"  />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit23421&count_private=true&show_icons=true&theme=vue-dark&hide_border=true&hide=css" height="185" alt="rohit23421"  />
 </p>
